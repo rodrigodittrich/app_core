@@ -18,6 +18,10 @@ dev_dependencies:
   
   commons_dependencies:
     git: https://github.com/rodrigodittrich/app_commons_dependencies.git
+  module_login:
+    git: https://github.com/rodrigodittrich/app_module_login.git 
+  module_home:
+    git: https://github.com/rodrigodittrich/app_module_home.git
     
 flutter:
 
